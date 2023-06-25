@@ -776,7 +776,9 @@ footer [class="logo-studio"] {
 
 .input-check {}
 
-.check-icon-box {}
+.check-icon-box {
+    display: inline-flex;
+}
 
 .check-text {
     display: flex;
